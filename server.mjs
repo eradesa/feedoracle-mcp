@@ -61,6 +61,6 @@ app.all("/mcp/*", async (req, res) => {
 
 const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
-  /*console.error(`FeedOracle MCP Proxy listening on port ${PORT}`);
+  console.error(`FeedOracle MCP Proxy listening on port ${PORT}`);
   console.error(`Forwarding to: ${REMOTE_URL}`);*/
 });
