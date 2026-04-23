@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "feedoracle": {
+      "type": "streamable-http",
+      "url": "https://feedoracle.io/mcp/",
+      "description": "FeedOracle DORA OS — Compliance evidence infrastructure for regulated financial entities"
+    }
+  }
+}
